@@ -1,4 +1,4 @@
-# React/Redux Project Boiler Plate
+# React/Redux Project Boilerplate
 
 A starting point for creating React/Redux projects.
 
